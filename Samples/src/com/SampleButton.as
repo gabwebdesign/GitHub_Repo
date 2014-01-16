@@ -1,0 +1,1 @@
+﻿//Actionscript 2.0 Classimport flash.display.Sprite;class SampleButton extends Button{     function onRelease(){           doSomething();                }	 	  doSomething(){		trace("Button done") 			} 	}
